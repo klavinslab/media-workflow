@@ -39,6 +39,26 @@ var config = {
 
     
 
+      {
+
+        category: "Libraries",
+
+        contents: [
+
+          
+            {
+              name: 'MediaRecipe',
+              path: 'libraries/MediaRecipe' + '.html',
+              type: "local-webpage"
+            },
+          
+
+        ]
+
+    },
+
+    
+
     
       { category: "Sample Types",
         contents: [
@@ -55,26 +75,38 @@ var config = {
         contents: [
           
             {
-              name: '1000 mL Agar',
-              path: 'object_types/1000_mL_Agar'  + '.md',
+              name: '200 mL Agar',
+              path: 'object_types/200_mL_Agar'  + '.md',
               type: "local-md"
             },
           
             {
-              name: '1000 mL Liquid',
-              path: 'object_types/1000_mL_Liquid'  + '.md',
+              name: '200 mL Liquid',
+              path: 'object_types/200_mL_Liquid'  + '.md',
               type: "local-md"
             },
           
             {
-              name: '500 mL Agar',
-              path: 'object_types/500_mL_Agar'  + '.md',
+              name: '400 mL Agar',
+              path: 'object_types/400_mL_Agar'  + '.md',
               type: "local-md"
             },
           
             {
-              name: '500 mL Liquid',
-              path: 'object_types/500_mL_Liquid'  + '.md',
+              name: '400 mL Liquid',
+              path: 'object_types/400_mL_Liquid'  + '.md',
+              type: "local-md"
+            },
+          
+            {
+              name: '800 mL Agar',
+              path: 'object_types/800_mL_Agar'  + '.md',
+              type: "local-md"
+            },
+          
+            {
+              name: '800 mL Liquid',
+              path: 'object_types/800_mL_Liquid'  + '.md',
               type: "local-md"
             },
           
